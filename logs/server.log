@@ -7,3 +7,5 @@ INFO:     Application startup complete.
 INFO:     172.20.0.1:40008 - "HEAD / HTTP/1.1" 405 Method Not Allowed
 INFO:     172.20.0.1:41824 - "GET /api/movies HTTP/1.1" 200 OK
 INFO:     172.20.0.1:41828 - "GET /api/movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44382 - "GET /api/movies HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44382 - "GET /api/movies HTTP/1.1" 200 OK
